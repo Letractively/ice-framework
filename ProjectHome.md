@@ -1,0 +1,1 @@
+Ice framework is a lightweight, easy-to-use web development framework written in Java.
